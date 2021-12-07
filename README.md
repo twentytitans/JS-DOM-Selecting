@@ -1,2 +1,2 @@
 # JS-DOM-Selecting
-This si sa html file you can directly open it in browser.
+This is a html file you can directly open it in browser.
